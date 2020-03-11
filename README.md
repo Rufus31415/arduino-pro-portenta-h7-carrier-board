@@ -36,9 +36,9 @@ Made in China :
 - PCB design : JLPCB (~$15 for 10 pieces + $10 shipping)
 - 23 x Terminal blocks : LCSC	Ningbo Kangnex Elec WJ250B-3.5-5P ($3)
 - 4 x Female headers : LCSC ($0.1)
-- 2 x High density connectors (no equivalent found in China)
+- 2 x High density connectors (no equivalent found in China) : Hirose DF40C-80DS-0.4V(51) (3.5€)
 
-TOTAL for 1 board : ~$5
+TOTAL for 1 board : ~$8
 
 # About Arduino PRO 🌈
 Arduino PRO ([https://store.arduino.cc/portenta-h7](https://store.arduino.cc/portenta-h7)) is a new Arduino MKR board with dual core processor, USB-C, Display port, Ethernet, Wifi, Bluetooth, ... It can run Arduino Sketches, Javascript, Python or TensorFlow models.
