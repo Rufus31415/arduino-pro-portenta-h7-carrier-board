@@ -20,8 +20,8 @@ This project is an Open Source hardware board with spring terminal blocks that e
 
 
 # Components 😺
-![Arduino PRO Portenta H7 Carrier Board](/images/components.png =250x)
-![Arduino PRO Portenta H7 Carrier Board](/images/photo-view.jpg =250x)
+![Arduino PRO Portenta H7 Carrier Board](/images/components.png)
+![Arduino PRO Portenta H7 Carrier Board](/images/photo-view.jpg)
 ## Bill of material
 Made in Europe :
 - PCB design : PCBWay, PCB Pool (80€ for 10 pieces)
