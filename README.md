@@ -4,6 +4,7 @@
 This project is an Open Source hardware board with spring terminal blocks that exposes all pins of the Arduino Pro board, for development purposes.
 
 ![Arduino PRO Portenta H7 Carrier Board](/images/photo-view-with-board.jpg)
+![Arduino PRO Portenta H7 Carrier Board](/images/photo-view-with-board.png)
 
 # Arduino Uno shield compatible 👍
 
