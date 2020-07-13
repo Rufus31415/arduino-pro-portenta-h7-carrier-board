@@ -3,6 +3,7 @@ More info here : https://rufus31415.github.io/arduino-portenta-h7-carrier-board.
 # About Arduino PRO Portenta H7 Carrier Board 😀
 This project is an Open Source hardware board with spring terminal blocks that exposes all pins of the Arduino Pro board, for development purposes.
 
+![Arduino PRO Portenta H7 Carrier Board](https://raw.githubusercontent.com/Rufus31415/arduino-pro-portenta-h7-carrier-board/master/images/power-on.gif)
 ![Arduino PRO Portenta H7 Carrier Board](https://raw.githubusercontent.com/Rufus31415/arduino-pro-portenta-h7-carrier-board/master/images/photo-view-with-board.jpg)
 ![Arduino PRO Portenta H7 Carrier Board](https://raw.githubusercontent.com/Rufus31415/arduino-pro-portenta-h7-carrier-board/master/images/photo-view-with-board.png)
 
