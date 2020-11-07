@@ -55,3 +55,8 @@ It has two 80 pins connectors. All pins are available on this carrier board.
 
 See the [license file](https://github.com/Rufus31415/arduino-pro-portenta-h7-carrier-board/blob/master/LICENSE) for details.
 
+<details>
+<summary></summary>
+<img src="https://ga-beacon.appspot.com/UA-163892314-2/arduino-pro-portenta-h7-carrier-board/">
+</details>
+
