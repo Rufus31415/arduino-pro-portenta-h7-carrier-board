@@ -7,6 +7,12 @@ This project is an Open Source hardware board with spring terminal blocks that e
 ![Arduino PRO Portenta H7 Carrier Board](https://raw.githubusercontent.com/Rufus31415/arduino-pro-portenta-h7-carrier-board/master/images/photo-view-with-board.jpg)
 ![Arduino PRO Portenta H7 Carrier Board](https://raw.githubusercontent.com/Rufus31415/arduino-pro-portenta-h7-carrier-board/master/images/photo-view-with-board.png)
 
+# Order
+I regularly make several of these boards, if you are curious, let me know (rufus31415@gmail.com). I only make them if enough people are interested.
+
+It is approximately : shipping + 50€ / piece.
+
+
 # Arduino Uno shield compatible 👍
 
 ![Arduino PRO Portenta H7 Carrier Board](https://raw.githubusercontent.com/Rufus31415/arduino-pro-portenta-h7-carrier-board/master/images/photo-view-with-board-and-shield.png)
