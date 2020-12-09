@@ -54,6 +54,12 @@ It has two 80 pins connectors. All pins are available on this carrier board.
 <img src="https://raw.githubusercontent.com/Rufus31415/arduino-pro-portenta-h7-carrier-board/master/images/portenta-h7-top.jpg" alt="Arduino PRO Portenta H7 Top" width="40%"/>
 <img src="https://raw.githubusercontent.com/Rufus31415/arduino-pro-portenta-h7-carrier-board/master/images/portenta-h7-back.jpg" alt="Arduino PRO Portenta H7 Back" width="40%"/>
 
+# Modifications
+- v1.1 :
+  - Move hight density connector J1 from X=-20mm to X=-20.2mm
+  - Delete the 4 external pins for hight density connector
+  - Enlarge the footprint of high-density connectors
+
 
 # License: MIT 😘
 
