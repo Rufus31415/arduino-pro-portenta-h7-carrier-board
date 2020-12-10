@@ -59,6 +59,7 @@ It has two 80 pins connectors. All pins are available on this carrier board.
   - Move hight density connector J1 from X=-20mm to X=-20.2mm
   - Delete the 4 external pins for hight density connector
   - Enlarge the footprint of high-density connectors (pin width from 25.98mil to 30.98mil)
+  - Enlarge to 0.28mm track width for GND, 3.3V, VSYS
 
 
 # License: MIT 😘
