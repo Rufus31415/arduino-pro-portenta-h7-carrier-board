@@ -60,6 +60,7 @@ It has two 80 pins connectors. All pins are available on this carrier board.
   - Delete the 4 external pins for hight density connector
   - Enlarge the footprint of high-density connectors (pin width from 25.98mil to 30.98mil)
   - Enlarge to 0.28mm track width for GND, 3.3V, VSYS
+  - Link pin GND 54 of J1 to Shield header GND
 
 
 # License: MIT 😘
