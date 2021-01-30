@@ -47,6 +47,12 @@ Made in China :
 
 TOTAL for 1 board : ~$8
 
+# Watch the [tutorial on Youtube](https://www.youtube.com/watch?v=Un0XpUKotuo)
+
+Here is a short video detailing the steps to make this card yourself.
+
+[![](https://img.youtube.com/vi/Un0XpUKotuo/0.jpg)](https://www.youtube.com/watch?v=Un0XpUKotuo)
+
 # About Arduino PRO 🌈
 Arduino PRO ([https://store.arduino.cc/portenta-h7](https://store.arduino.cc/portenta-h7)) is a new Arduino MKR board with dual core processor, USB-C, Display port, Ethernet, Wifi, Bluetooth, ... It can run Arduino Sketches, Javascript, Python or TensorFlow models.
 It has two 80 pins connectors. All pins are available on this carrier board.
